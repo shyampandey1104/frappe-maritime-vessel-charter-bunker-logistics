@@ -1,0 +1,1 @@
+maritime_bunker_charter.patches.v1_0.setup_initial_defaults

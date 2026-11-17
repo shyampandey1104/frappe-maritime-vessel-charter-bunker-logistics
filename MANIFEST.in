@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include maritime_bunker_charter *.css
+recursive-include maritime_bunker_charter *.csv
+recursive-include maritime_bunker_charter *.html
+recursive-include maritime_bunker_charter *.ico
+recursive-include maritime_bunker_charter *.js
+recursive-include maritime_bunker_charter *.json
+recursive-include maritime_bunker_charter *.md
+recursive-include maritime_bunker_charter *.png
+recursive-include maritime_bunker_charter *.py
+recursive-include maritime_bunker_charter *.svg
+recursive-include maritime_bunker_charter *.txt
+recursive-exclude maritime_bunker_charter *.pyc

@@ -1,0 +1,9 @@
+[
+ {
+  "dt": "Frappe Maritime Vessel Charter Bunker Logistics Entry",
+  "fieldname": "custom_audit_verified",
+  "fieldtype": "Check",
+  "insert_after": "status",
+  "label": "Audit Verified"
+ }
+]
